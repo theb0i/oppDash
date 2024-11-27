@@ -1,0 +1,166 @@
+{
+  "dashboard": {
+    "completedTasks": "Completed Tasks",
+    "dailySales": "Daily Sales",
+    "performance": "Performance",
+    "simpleTable": "Simple Table",
+    "totalShipments": "Total Shipments",
+    "chartCategories": [
+      "Accounts",
+      "Purchases",
+      "Sessions"
+    ],
+    "tasks": "Tasks({count})",
+    "today": "Today",
+    "dropdown": {
+      "action": "Action",
+      "anotherAction": "Another Action",
+      "somethingElse": "Something else"
+    },
+    "usersTable": {
+      "title": "Simple Table",
+      "columns": [
+        "Name",
+        "Country",
+        "City",
+        "Salary"
+      ],
+      "data": [
+        {
+          "id": 1,
+          "name": "Dakota Rice",
+          "salary": "$36.738",
+          "country": "Niger",
+          "city": "Oud-Turnhout"
+        },
+        {
+          "id": 2,
+          "name": "Minerva Hooper",
+          "salary": "$23,789",
+          "country": "Curaçao",
+          "city": "Sinaai-Waas"
+        },
+        {
+          "id": 3,
+          "name": "Sage Rodriguez",
+          "salary": "$56,142",
+          "country": "Netherlands",
+          "city": "Baileux"
+        },
+        {
+          "id": 4,
+          "name": "Philip Chaney",
+          "salary": "$38,735",
+          "country": "Korea, South",
+          "city": "Overland Park"
+        },
+        {
+          "id": 5,
+          "name": "Doris Greene",
+          "salary": "$63,542",
+          "country": "Malawi",
+          "city": "Feldkirchen in Kärnten"
+        },
+        {
+          "id": 6,
+          "name": "Mason Porter",
+          "salary": "$98,615",
+          "country": "Chile",
+          "city": "Gloucester"
+        },
+        {
+          "id": 7,
+          "name": "Jon Porter",
+          "salary": "$78,615",
+          "country": "Portugal",
+          "city": "Gloucester"
+        }
+      ]
+    },
+    "taskList": [
+      {
+        "title": "671345-2024",
+        "description": "Deutschland – Computeranlagen und Zubehör – Rahmenvereinbarung zur Beschaffung von IT-Arbeitsplatzaustattung",
+        "done": false
+      },
+      {
+        "title": "665425-2024",
+        "description": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – 2024-0615 Zukunftsgarten Duisburg IGA 2027 - Fachgutachterliche Begleitung der Erdbauarbeiten (4 Lose)",
+        "done": true
+      },
+      {
+        "title": "664792-2024",
+        "description": "Diverse Maschinen und Geräte für besondere Zwecke – Mobile Robotersystem",
+        "done": false
+      },
+      {
+        "title": "661278-2024",
+        "description": "Tragbare Computer – Lieferung von IT-Geräten und Zubehör",
+        "done": false
+      },
+      {
+        "title": "660579-2024",
+        "description": " Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – V165_2024 - GF-R-RP - RV Unterstützung QM-QS",
+        "done": true
+      },
+      {
+        "title": "650317-2024",
+        "description": "Kreisfreie Stadt Art des Auftrags: Lieferungen Offizielle Bezeichnung: Freistaat Bayern vertreten durch den Bayerischen Landtag - Landtagsamt",
+        "done": false
+      },
+      {
+        "title": "650317-2024",
+        "description": "Kreisfreie Stadt Art des Auftrags: Lieferungen Offizielle Bezeichnung: Freistaat Bayern vertreten durch den Bayerischen Landtag - Landtagsamt",
+        "done": false
+      },
+      {
+        "title": "671345-2024",
+        "description": "Deutschland – Computeranlagen und Zubehör – Rahmenvereinbarung zur Beschaffung von IT-Arbeitsplatzaustattung",
+        "done": true
+      },
+      {
+        "title": "665425-2024",
+        "description": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – 2024-0615 Zukunftsgarten Duisburg IGA 2027 - Fachgutachterliche Begleitung der Erdbauarbeiten (4 Lose)",
+        "done": true
+      },
+      {
+        "title": "664792-2024",
+        "description": "Diverse Maschinen und Geräte für besondere Zwecke – Mobile Robotersystem",
+        "done": false
+      },
+      {
+        "title": "661278-2024",
+        "description": "Tragbare Computer – Lieferung von IT-Geräten und Zubehör",
+        "done": false
+      },
+      {
+        "title": "660579-2024",
+        "description": " Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – V165_2024 - GF-R-RP - RV Unterstützung QM-QS",
+        "done": false
+      },
+      {
+        "title": "650317-2024",
+        "description": "Kreisfreie Stadt Art des Auftrags: Lieferungen Offizielle Bezeichnung: Freistaat Bayern vertreten durch den Bayerischen Landtag - Landtagsamt",
+        "done": false
+      },
+      {
+        "title": "650317-2024",
+        "description": "Kreisfreie Stadt Art des Auftrags: Lieferungen Offizielle Bezeichnung: Freistaat Bayern vertreten durch den Bayerischen Landtag - Landtagsamt",
+        "done": false
+      }
+      
+    ]
+  },
+  "sidebar": {
+    "title": "Creative Tim",
+    "shortTitle": "CT",
+    "dashboard": "dashboard",
+    "icons": "Icons",
+    "maps": "Maps",
+    "notifications": "Notifications",
+    "userProfile": "User Profile",
+    "tableList": "Table List",
+    "typography": "Typography",
+    "rtlSupport": "RTL Support"
+  }
+}
