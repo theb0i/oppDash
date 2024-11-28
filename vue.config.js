@@ -1,5 +1,6 @@
-// Vue CLI (vue.config.js)
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/oppdash/' : '/'
+  publicPath: '/oppDash/',
+  outputDir: 'dist',
+  assetsDir: 'assets',
+  lintOnSave: true,
 };
-
