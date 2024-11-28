@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/oppDash/',
+  publicPath: '/a550f774.oppdash.pages.dev/',
   outputDir: 'dist',
   assetsDir: 'assets',
   lintOnSave: true,
