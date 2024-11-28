@@ -300,6 +300,18 @@ export default {
 </script>
 
 <style scoped>
+  .card {
+  display: inline-block; /* Ermöglicht, sich an den Inhalt anzupassen */
+  min-width: max-content; /* Mindestens so breit wie der Inhalt (Tabelle) */
+  width: 100%; /* Passt sich ansonsten der verfügbaren Breite an */
+  overflow-x: auto; /* Verhindert das Abschneiden von Inhalten */
+}
+
+.table {
+  width: 100%; /* Tabelle nutzt den maximal verfügbaren Platz */
+  table-layout: auto; /* Dynamische Spaltenbreite */
+}
+  
   .sortable {
     cursor: pointer;
     user-select: none;
