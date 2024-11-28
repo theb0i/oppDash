@@ -1,6 +1,3 @@
 module.exports = {
-  publicPath: '/a550f774.oppdash.pages.dev/',
-  outputDir: 'dist',
-  assetsDir: 'assets',
-  lintOnSave: true,
+  publicPath: process.env.NODE_ENV === 'production' ? '/' : '/'
 };
