@@ -63,14 +63,14 @@
 
       </sidebar-link>
       
-      <!-- // Icons -->
+      <!-- // Icons
       <sidebar-link to="/icons" >
         <i class="tim-icons icon-single-02"></i>
 
         <template v-if="!isRTL">
           <p>Icons</p>
         </template>
-      </sidebar-link> 
+      </sidebar-link>  -->
 
       <sidebar-link to="/user" class="active-pro">
         <i class="tim-icons icon-single-02"></i>
